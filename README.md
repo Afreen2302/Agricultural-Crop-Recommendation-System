@@ -1,1 +1,56 @@
-Abstract— This research project delves into the realm of agriculture, aiming to optimize crop selection based on a myriad of environmental factors such as temperature, humidity, soil pH, and levels of nitrogen and potassium. By harnessing the power of data analysis and machine learning algorithms, this study contributes to the advancement of sustainable agricultural practices, aligning closely with Sustainable Development Goal 12 (SDG12) which underscores the importance of responsible consumption and production. The core focus lies in facilitating data-driven decision-making processes, where comprehensive analysis of diverse parameters enables informed choices regarding crop cultivation. Leveraging the robustness of the Random Forest predictor, a machine learning algorithm renowned for its accuracy and reliability, this research endeavors to develop a Crop Recommendation System capable of offering tailored suggestions with high precision. Through meticulous examination of varied environmental metrics and the implementation of advanced computational techniques, this project not only aims to enhance crop yield and agricultural efficiency but also strives towards fostering a more sustainable and environmentally conscious approach to farming practices.
+## Agricultural Crop Recommendation System
+
+This project provides a machine learning-based recommendation system to help farmers decide the best crop to plant based on various environmental and soil parameters.
+
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Contributing](#contributing)
+- [License](#license)
+- [Code of Conduct](#code-of-conduct)
+
+### Project Overview
+Agricultural Crop Recommendation System uses machine learning algorithms to recommend the most suitable crop to grow in a particular field based on input parameters such as nitrogen, phosphorus, potassium levels, temperature, humidity, pH, and rainfall.
+
+### Features
+- **Data Analysis**: Analyze and visualize environmental and soil parameters.
+- **Crop Recommendation**: Machine learning model to recommend the best crop to plant.
+- **Web Interface**: User-friendly web interface for farmers to input parameters and get recommendations.
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Afreen2302/Agricultural-Crop-Recommendation-System.git
+    ```
+2. Change directory:
+    ```bash
+    cd Agricultural-Crop-Recommendation-System
+    ```
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Usage
+1. Run the web application:
+    ```bash
+    python app.py
+    ```
+2. Open your web browser and go to `http://127.0.0.1:5000/`.
+3. Input the required parameters and get crop recommendations.
+
+### Dataset
+The dataset used for this project is included in the repository as `Crop_recommendation.csv`. It contains various features that are essential for predicting the best crop to grow.
+
+### Contributing
+Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information.
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Code of Conduct
+Please read the [Code of Conduct](CODE_OF_CONDUCT.md) for the guidelines we expect our community members to follow.
+```
