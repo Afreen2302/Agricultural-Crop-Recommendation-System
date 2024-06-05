@@ -8,7 +8,6 @@ This project provides a machine learning-based recommendation system to help far
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
 - [License](#license)
 - [Code of Conduct](#code-of-conduct)
 
@@ -44,9 +43,6 @@ Agricultural Crop Recommendation System uses machine learning algorithms to reco
 
 ### Dataset
 The dataset used for this project is included in the repository as `Crop_recommendation.csv`. It contains various features that are essential for predicting the best crop to grow.
-
-### Contributing
-Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
