@@ -53,4 +53,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Code of Conduct
 Please read the [Code of Conduct](CODE_OF_CONDUCT.md) for the guidelines we expect our community members to follow.
-```
